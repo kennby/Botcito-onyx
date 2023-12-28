@@ -34,8 +34,8 @@ const defaultMenu = {
 
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
-║├⫹⫺ *Creador :* Alba070503 
-║├⫹⫺ *Numero:* wa.me/59177601773
+║├⫹⫺ *Creador :* kenn 
+║├⫹⫺ *Numero:* wa.me/51946512638
 ║├⫹⫺ *Tiempo Activo:* %muptime
 ║├⫹⫺ *Registrado :* %rtotalreg de %totalreg usuarios
 ║╰────────────── 
