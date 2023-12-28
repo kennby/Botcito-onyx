@@ -14,30 +14,18 @@ if (!text) throw `▶⏸ *PLAY*\n\nQué estás buscando?`
     } else if (command === 'play2') {
       additionalText = 'video 🎥';
     }
-    const texto1 = `❒═════❬ PLAY ❭═════╾❒
-├‣ Nombre : 
-┴
-${yt_play[0].title}
+    const texto1 = `❒═════❬ PLAY KENN ❭═════╾❒
+├‣ Nombre : ${yt_play[0].title}
 ┬
-├‣ Publicado : 
-┴
- ${yt_play[0].ago}
+├‣ Publicado : ${yt_play[0].ago}
 ┬
-├‣ Duracion : 
-┴
- ${secondString(yt_play[0].duration.seconds)}
+├‣ Duracion : ${secondString(yt_play[0].duration.seconds)}
 ┬
-├‣ Vistas : 
-┴
-${MilesNumber(yt_play[0].views)}
+├‣ Vistas : ${MilesNumber(yt_play[0].views)}
 ┬
-├‣ Canal : 
-┴
-${yt_play[0].author.url}
+├‣ Canal : ${yt_play[0].author.url}
 ┬
-├‣ Link : 
-┴
-${yt_play[0].url}
+├‣ Link : ${yt_play[0].url}
 ┬
 ❒═════════════════╾❒`.trim();
     conn.sendMessage(m.chat, {image: {url: yt_play[0].thumbnail}, caption: texto1}, {quoted: m});
@@ -268,21 +256,13 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
   const url = 'https://www.youtube.com/watch?v=' + videoId
   await conn.sendHydrated(m.chat, `
 ❒═════❬ PLAY ❭═════╾❒
-├‣ Nombre : 
-┴
-${title}
+├‣ Nombre : ${title}
 ┬
-├‣ Descripcion : 
-┴
-${description} 
+├‣ Descripcion : ${description} 
 ┬
-├‣ Publicado : 
-┴
-${publishedTime} 
+├‣ Publicado : ${publishedTime} 
 ┬
-├‣ Duracion : 
-┴
-${durationH}
+├‣ Duracion : ${durationH}
 ┬
 ❒═════════════════╾❒
   `.trim(), author, thumbnail, url, '📺Ir a Youtube!', null, null, [
