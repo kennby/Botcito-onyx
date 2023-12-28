@@ -38,9 +38,9 @@ global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 //Enlaces
 global.yt = 'https://www.youtube.com/'
 global.ig = 'https://instagram.com/'
-global.md = 'https://github.com/onyxxd'
+global.md = 'https://github.com/onyx'
 global.paypal = 'https://paypal.me/Onyx'
-global.git = 'https://github.com/ONYXBOT-MD'
+global.git = 'https://github.com/onyx'
 global.nn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Grupo ofc
 global.nnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Curiosity global
 global.nnnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //colaboración multi bots
