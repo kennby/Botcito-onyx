@@ -82,15 +82,15 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
-║├⛄ *Creador :* Alba070503 
-║├⛄ *Numero:* wa.me/591776017773
+║├⛄ *Creador :* kennx 
+║├⛄ *Numero:* wa.me/51960902412
 ║├⛄ *Tiempo Activo:* ${uptime}
 ║├⛄ *Registrado :* ${rtotalreg} de ${totalreg} usuarios
 ║├⛄ *Tiempo activo :*${uptime}
 ║╰────────────── 
 ╚══════════════════⋆
 ╔═══[ *< BOT OFC O SUBBOT/>* ]═══╗
-║├⛄ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${global.conn.user.jid.split`@`[0]}`) || '*Este es el Bot oficial Kumiko-MD*'}
+║├⛄ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${global.conn.user.jid.split`@`[0]}`) || '*Este es el Bot oficial onyx-MD*'}
 ╚══════════════════⋆
 
 ╔═════「 ＨＯＹ 」════╗
