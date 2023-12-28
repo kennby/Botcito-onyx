@@ -41,12 +41,12 @@ global.ig = 'https://instagram.com/alba070503_'
 global.md = 'https://github.com/Alba070503/Kumiko-MD'
 global.paypal = 'https://paypal.me/Alba070503'
 global.git = 'https://github.com/Alba070503'
-global.nn = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //Grupo ofc
-global.nnn = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //Curiosity global
-global.nnnn = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //colaboración multi bots
-global.nnnnn = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //Colaboración CuriosityBot - NovaBot 
-global.nnnnnn = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04' //enlace curiosity
-global.channel = 'https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04'
+global.nn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Grupo ofc
+global.nnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Curiosity global
+global.nnnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //colaboración multi bots
+global.nnnnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Colaboración CuriosityBot - NovaBot 
+global.nnnnnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //enlace curiosity
+global.channel = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v'
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz
