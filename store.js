@@ -36,10 +36,10 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Alba070503'
-global.ig = 'https://instagram.com/alba070503_'
-global.md = 'https://github.com/Alba070503/Kumiko-MD'
-global.paypal = 'https://paypal.me/Alba070503'
+global.yt = 'https://www.youtube.com/'
+global.ig = 'https://instagram.com/'
+global.md = 'https://github.com/ONYX-MD'
+global.paypal = 'https://paypal.me/Onyx'
 global.git = 'https://github.com/Alba070503'
 global.nn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Grupo ofc
 global.nnn = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //Curiosity global
