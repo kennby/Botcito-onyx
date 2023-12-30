@@ -83,7 +83,7 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
 ║├⛄ *Creador :* kennx 
-║├⛄ *Numero:* wa.me/51946512638
+║├⛄ *Numero:* wa.me/51907269769
 ║├⛄ *Tiempo Activo:* ${uptime}
 ║├⛄ *Registrado :* ${rtotalreg} de ${totalreg} usuarios
 ║├⛄ *Tiempo activo :*${uptime}
