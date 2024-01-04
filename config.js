@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['51907269769', 'kennn', true]]
+global.owner = [['51901447095', 'kennn', true]]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -15,22 +15,23 @@ global.mods = []
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = 'onyx MD'
-global.author = 'onyx MD'
-global.wm = '© onyx-MD'
-global.wm2 = 'onyx : 𝗕𝗈𝗍'
-global.azami = 'onyx'
-global.cb = 'onyx-MD'
+global.packname = '𝙾𝙽𝚈𝚇 𝙱𝙾𝚃'
+global.author = '𝙾𝙽𝚈𝚇 𝙺𝙴𝙽𝙽'
+global.wm = '© 𝙾𝙽𝚈𝚇 𝙺𝙴𝙽𝙽'
+global.wm2 = '𝙾𝙽𝚈𝚇𝚇 : 𝗕𝗈𝗍'
+global.azami = '𝙾𝙽𝚈𝚇𝚇'
+global.cb = '𝙾𝙽𝚈𝚇𝚇'
 
 global.vs = '1.0.2'
 global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '59169082575'
+global.dev = '𝙾𝙽𝚈𝚇 𝙱𝙾𝚃 𝙼𝙳'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
 console.log(chalk.yellow('Se actualizo el archivo config.js'))
 import(`${file}?update=${Date.now()}`)
 })
+
