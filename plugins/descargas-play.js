@@ -18,23 +18,23 @@ additionalText = 'audio'
 } else if (command === 'play2') {
 additionalText = 'video'}
 
-let texto1 = `*∘ ｔｉｔｕｌｏｏ*
+let texto1 = `*∘ 𝚃𝙸𝚃𝚄𝙻𝙾*
 ${yt_play[0].title}
 
-*∘ ｄｕｒａｃｉｏｎ* 
+*∘ 𝙳𝚄𝚁𝙰𝙲𝙸𝙾𝙽* 
 ${secondString(yt_play[0].duration.seconds)}
 
-*∘ ａｕｎｔｏｒ*
+*∘ 𝙰𝚄𝚃𝙾𝚁*
 ${yt_play[0].author.name}
 
-*∘ ｃａｎａｌ*
+*∘ 𝙲𝙰𝙽𝙰𝙻*
 ${yt_play[0].author.url}
 
-*∘ ｅｎｌａｃｅ*
+*∘ 𝙴𝙽𝙻𝙰𝙲𝙴*
 ${yt_play[0].url}
 
 *Enviando ${additionalText}*
-⏰ Espere un momento`.trim()
+⏰ 𝙴𝚂𝙿𝙴𝚁𝙴 𝚄𝙽 𝙼𝙾𝙼𝙴𝙽𝚃𝙾 𝚇𝙳`.trim()
 await conn.sendMessage(m.chat, { text: texto1, contextInfo: { externalAdReply: { title: yt_play[0].title, body: dev, thumbnailUrl: yt_play[0].thumbnail, mediaType: 1, showAdAttribution: true, renderLargerThumbnail: true }}} , { quoted: m })
 
 if (command == 'play') {	
